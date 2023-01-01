@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.app {
+  width: 40vw;
+  /* height: 75vh; */
+  /* height: 100vh; */
+  border: 2px solid black;
+  padding: 10px;
+}
+form {
+  /* border: 2px solid blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

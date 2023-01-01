@@ -1,0 +1,10 @@
+.formInput {
+    padding: 15px;
+    margin: 10px 0px;
+    border: 2px solid black;
+    /* width: 100%; */
+    /* background-color: grey; */
+}
+.container-input {
+    width: 100%;
+}
